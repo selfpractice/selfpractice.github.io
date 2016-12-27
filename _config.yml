@@ -27,6 +27,6 @@
 #  repo:              https://selfpractice.github.io
 
 # Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+#gems:
+#  - jekyll-paginate
+#  - jekyll-gist
