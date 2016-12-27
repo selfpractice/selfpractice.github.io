@@ -22,9 +22,9 @@ author:
   email:             markdotto@gmail.com
 
 # Custom vars
-version:             2.0.0
-github:
-  repo:              https://selfpractice.github.io
+#version:             2.0.0
+#github:
+#  repo:              https://selfpractice.github.io
 
 # Gems
 gems:
