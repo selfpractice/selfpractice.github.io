@@ -69,5 +69,5 @@ theme: jacman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://selfpractice.github.io
-  branch: [branch]
+  repo: https://github.com/selfpractice/selfpractice.github.io
+  branch: master
